@@ -30,6 +30,12 @@ apt install mosh
 apt install rsync
 apt install git
 
+apt install firefox
+git clone https://github.com/intika/Librefox.git
+cd Librefox
+
+
+
 apt update
 
 EOF
