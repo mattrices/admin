@@ -34,6 +34,8 @@ apt install firefox
 git clone https://github.com/intika/Librefox.git
 cd Librefox
 
+apt install powershell
+
 
 
 apt update
