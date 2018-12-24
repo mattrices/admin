@@ -33,7 +33,7 @@ apt install powertop
 
 apt install firefox
 git clone https://github.com/intika/Librefox.git
-\
+
 
 
 apt update
