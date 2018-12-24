@@ -21,4 +21,6 @@ apt install brasero
 
 apt install psensor
 
+apt update
+
 EOF
