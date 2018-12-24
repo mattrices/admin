@@ -5,6 +5,7 @@ chmod +x update.sh
 
 apt install krita
 apt install blender
+apt install flameshot
 
 apt install octave
 apt install qalculate
