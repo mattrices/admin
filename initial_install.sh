@@ -27,6 +27,7 @@ apt install psensor
 apt install zsh
 apt install tilix
 apt install mosh
+apt install rsync
 
 apt update
 
