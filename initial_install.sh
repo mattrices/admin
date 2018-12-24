@@ -21,7 +21,6 @@ apt install libre-calc
 
 apt install gparted
 apt install brasero
-
 apt install psensor
 
 apt install zsh
@@ -29,12 +28,12 @@ apt install tilix
 apt install mosh
 apt install rsync
 apt install git
+apt install powertop
 
 apt install firefox
 git clone https://github.com/intika/Librefox.git
 cd Librefox
 
-apt install powershell
 
 
 
