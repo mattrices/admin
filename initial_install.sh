@@ -11,7 +11,9 @@ apt install qalculate
 
 apt install clementine
 apt install audacity
+apt install rtorrent
 
+apt install vim
 apt install texmaker
 apt install libre-office
 apt install libre-calc
