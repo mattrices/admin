@@ -24,6 +24,10 @@ apt install brasero
 
 apt install psensor
 
+apt install zsh
+apt install tilix
+apt install mosh
+
 apt update
 
 EOF
