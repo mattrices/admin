@@ -28,6 +28,7 @@ apt install zsh
 apt install tilix
 apt install mosh
 apt install rsync
+apt install git
 
 apt update
 
